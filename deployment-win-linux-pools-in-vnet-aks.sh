@@ -5,9 +5,9 @@
 AKSResourceGroupName=""
 AKSClusterName=""
 AKSClusterLocation=""
-AKSClusterLinuxNodePoolName=""
+AKSClusterLinuxNodePoolName="" #six characters maximum
 AKSClusterLinuxNodePoolCount=""
-AKSClusterWindowsNodePoolName=""
+AKSClusterWindowsNodePoolName="" #six characters maximum
 AKSClusterWindowsNodePoolCount=""
 AKSClusterVMSize=""
 AKSClusterServicePrincipalAppId="GENERATED AT RUNTIME"
